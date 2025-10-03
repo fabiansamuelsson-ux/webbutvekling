@@ -1,0 +1,59 @@
+p{
+    font-size: 120% ;
+}
+
+.plan {  
+    position: sticky;
+    top: 10px;
+}
+
+.fein{
+    width: 100%;
+}
+
+.player {
+    position: absolute;
+    width: 50px;
+    height: 50px; 
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Consolas, sans-serif;
+
+}
+
+.right-wing {
+    top: 10%;
+
+}
+
+.left-wing {
+    bottom: 10%;
+}
+
+.right{
+    top: 26.5%;
+}
+
+.left{
+    bottom: 28%;
+}
+
+.intetypmittenperchance{
+    top: 47%; 
+}
+
+.målvakt{
+    top: 47%;
+    left: 5%
+}
+
+.defender{
+    left: 40%
+}
+
+.attacker{
+    left: 20%
+}

@@ -1,0 +1,18 @@
+.divcade {
+    background-color: rgba(225, 167, 8, 0.749);
+    border-left: 2px solid black;
+    width: 40%;
+    padding-left: 20px;
+    margin-right: 20px;
+    overflow: auto;
+}
+
+.divludvig {
+    background-color: rgba(8, 167, 225, 0.749);
+    border-left: 2px solid black;
+    width: 40%;
+    height: 100px;
+    padding-left: 20px;
+    margin-right: 20px;
+    overflow: scroll;
+}
